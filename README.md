@@ -8,7 +8,7 @@ I am curating this project so we can have a directory of tutorials(articles, vid
 * Add the tutorial with this format:
   ```js
     const links = [{
-      "title": 'Awesome tutorial",
+      "title": 'Awesome tutorial',
       "link": 'https://awesometutoriallink.com/tutorial',
       "tags": ["what", "is", "the", "tutorial", "about"]
     }]
